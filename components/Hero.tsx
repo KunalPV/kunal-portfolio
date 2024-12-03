@@ -4,7 +4,7 @@ import HeroRight from './hero/HeroRight'
 
 const Hero = () => {
   return (
-    <div className='w-full flex justify-start items-start'>
+    <div className='w-full flex justify-start items-start h-[500px]'>
       <div className='w-[40%] flex items-center justify-center'>
         <HeroLeft />
       </div>

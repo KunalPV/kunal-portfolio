@@ -27,7 +27,7 @@ const Projects = () => {
                 <Button>Github</Button>
               </a>
               <div className='text-sm text-center pt-1'>
-                Pioneered development of an innovative blockchain-powered survey application that achieved 80% higher user participation through cryptocurrency rewards and streamlined survey creation.
+              Developed a blockchain-powered survey application that incentivized user participation with cryptocurrency rewards, offering streamlined survey creation and enhanced data accuracy through robust platform capabilities.
               </div>
             </CardContent>
           </Card>
@@ -40,7 +40,7 @@ const Projects = () => {
                 <Button>Github</Button>
               </a>
               <div className='text-sm text-center pt-1'>
-                Developed an interactive web app enabling users to easily curate, share and explore favourite locations through a community-driven place directory and map view.
+              Developed an interactive web app that allows users to curate, share, and explore favourite locations through a community-driven directory and a visually appealing map view.
               </div>
             </CardContent>
           </Card>
