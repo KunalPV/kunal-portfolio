@@ -18,15 +18,18 @@ const Skills = () => {
         </div>
 
         <CardContent className='mt-4 w-full flex justify-around items-center'>
-          <Card className='p-4'>
+          <Card className='p-4 flex flex-col justify-center gap-2'>
             <div>
-              <span className='font-semibold'>Cloud & Devops:</span> AWS (Certified Developer, Solutions Architect, Practitioner), Kubernetes, Docker, Terraform, CI/CD.
+              <span className='font-semibold'>Fullstack:</span> React.js, Next.js, Node.js Express.js, Vue.js, Spring Boot, Django, TailwindCSS, GraphQL.
             </div>
             <div>
-              <span className='font-semibold'>Fullstack:</span> Java, JavaScript, TypeScript, Golang, React.js, Next.js, Solidity, C++, C, Node.js Express.js, Spring Boot, Django, GraphQL.
+              <span className='font-semibold'>Cloud Computing:</span> Lambda, EC2, S3, RDS, DynamoDB, CloudFormation, Elastic Beanstalk, EKS/ECS, CloudFront, Docker, VPC.
             </div>
             <div>
-              <span className='font-semibold'>Operating System & Database:</span> Linux, Windows Server for Cloud, Python, PowerShell, MySQL, MongoDB, Firebase, PostgreSQL.
+              <span className='font-semibold'>Programming Languages:</span> Java, JavaScript, Golang, TypeScript, Python, Solidity, C++, C, SQL.
+            </div>
+            <div>
+              <span className='font-semibold'>Operating System & Database:</span> Linux, MySQL, MongoDB, Firebase, PostgreSQL.
             </div>
           </Card>
         </CardContent>

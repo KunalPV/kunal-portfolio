@@ -8,8 +8,8 @@ import Projects from './history/Projects'
 const History = () => {
   return (
     <div className='flex justify-around items-center flex-col'>
-      <Experience />
       <Skills />
+      <Experience />
       <Certifications />
       <Projects />
       <Education />

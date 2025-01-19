@@ -21,17 +21,43 @@ const Projects = () => {
           <Card className='pt-4'>
             <CardContent className='flex flex-col justify-center items-center gap-2'>
               <div className='text-lg font-medium'>
-                KryptoInsight
+                HowNetWorks
               </div>
-              <a href="https://github.com/KunalPV/KryptoInsight">
-                <Button>Github</Button>
+              <a href="https://hownetworks.vercel.app/" target="_blank" rel="noopener noreferrer">
+                <Button>Website</Button>
               </a>
               <div className='text-sm text-center pt-1'>
-              Developed a blockchain-powered survey application that incentivized user participation with cryptocurrency rewards, offering streamlined survey creation and enhanced data accuracy through robust platform capabilities.
+              Developed a fullstack web application to educate users on internet privacy concepts, featuring engaging interfaces, real-time data visualization, and scalable backend communication.
               </div>
             </CardContent>
           </Card>
           <Card className='pt-4'>
+            <CardContent className='flex flex-col justify-center items-center gap-2'>
+              <div className='text-lg font-medium'>
+                KryptoInsight
+              </div>
+              <a href="https://github.com/KunalPV/KryptoInsight" target="_blank" rel="noopener noreferrer">
+                <Button>Github</Button>
+              </a>
+              <div className='text-sm text-center pt-1'>
+              Created a fullstack web3 application to streamline survey creation and incentivize participation with cryptocurrency rewards, combining responsive design with secure and efficient data handling.
+              </div>
+            </CardContent>
+          </Card>
+          <Card className='pt-4'>
+            <CardContent className='flex flex-col justify-center items-center gap-2'>
+              <div className='text-lg font-medium'>
+                gofs
+              </div>
+              <a href="https://github.com/KunalPV/gofs" target="_blank" rel="noopener noreferrer">
+                <Button>Github</Button>
+              </a>
+              <div className='text-sm text-center pt-1'>
+              Designed an advanced command-line tool for efficient file searching and filtering, incorporating features like multithreaded traversal, pattern matching, and customizable output.
+              </div>
+            </CardContent>
+          </Card>
+          {/* <Card className='pt-4'>
             <CardContent className='flex flex-col justify-center items-center gap-2'>
               <div className='text-lg font-medium'>
               Places Directory
@@ -43,8 +69,8 @@ const Projects = () => {
               Developed an interactive web app that allows users to curate, share, and explore favourite locations through a community-driven directory and a visually appealing map view.
               </div>
             </CardContent>
-          </Card>
-          <Card className='pt-4'>
+          </Card> */}
+          {/* <Card className='pt-4'>
             <CardContent className='flex flex-col justify-center items-center gap-2'>
               <div className='text-lg font-medium'>
               E-Shopping
@@ -56,7 +82,7 @@ const Projects = () => {
                 Designed and developed a responsive eCommerce platform using EJS templates, which facilitated dynamic content rendering and seamless integration of JavaScript logic.
               </div>
             </CardContent>
-          </Card>
+          </Card> */}
         </CardContent>
 
       </Card>

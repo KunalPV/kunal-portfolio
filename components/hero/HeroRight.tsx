@@ -7,8 +7,8 @@ const HeroRight = () => {
         <div className='text-2xl font-medium mb-2'>Hey, I&apos;m</div>
         <div className='text-4xl font-bold'>Kunal PV</div>
       </div>
-      <div className='w-full text-center mt-6'>
-        I&apos;m a results-oriented Software Developer with over a year of hands-on experience in full-stack software development and blockchain applications. I possess a robust understanding of cutting-edge technologies, including Amazon Web Services (AWS), and hold certifications in AWS. I demonstrate a track record of developing innovative solutions, underpinned by my understanding of cutting-edge technologies.
+      <div className='w-full text-center mt-6 px-4 text-balance'>
+        I am a results-oriented Software Developer with over a year of dedicated experience in full-stack software development and blockchain applications. I bring a strong foundation in cutting-edge technologies, including Amazon Web Services (AWS), complemented by certifications in AWS. My work highlights practical and effective solutions designed to address complex challenges.
       </div>
     </div>
   )

@@ -59,7 +59,7 @@ const Education = () => {
 
               <div className='flex flex-col justify-end items-end pr-4'>
                 <div className='text-lg font-medium'>Aug 2018 – Jul 2022</div>
-                <div className='text-sm font-light'>Belagavi, India</div>
+                <div className='text-sm font-light'>Davanagere, India</div>
               </div>
             </div>
           </Card>
